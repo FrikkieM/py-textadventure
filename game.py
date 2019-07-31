@@ -1,9 +1,5 @@
 # PYTHON TEXT RPG:
 # ===============
-# From Bryan Tong's series on YouTube
-# First Video URL: 
-# https://www.youtube.com/watch?v=MFW8DJ6qsak
-# ===============
 
 import cmd
 import textwrap
